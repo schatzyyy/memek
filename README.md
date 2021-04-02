@@ -48,8 +48,8 @@ Script ini di modifikasi sama saya dkk.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/HAFizh-15/TERMOS-WABOT
-> cd TERMOS-WABOT
+> git clone https://github.com/schatzyyy/memek
+> cd memek
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
