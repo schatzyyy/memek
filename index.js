@@ -40,7 +40,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Ownerbot\n'
             + 'ORG:Creator SELF BOT;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285959375675:+62 877-7545-2636\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6289657856407:+62 896-5785-6407\n'
             + 'END:VCARD'
 prefix = '!'
 blocked = []            
