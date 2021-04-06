@@ -30,7 +30,7 @@ const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
 const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 			// API KEY
-			const apiKey = 'APIKEY' // get in https://mhankbarbar.tech/api
+			const apiKey = 'agQcJGCdC2KdybJaeV6N' // get in https://mhankbarbar.tech/api
 			const tobzkey = 'BotWeA'// GET IN https://tobz-api.herokuapp.com/api
 			const vhtearkey = 'APIKEY'// GET IN https://api.vhtear.com/
 			const zekskey = 'apivinz' //GET IN https://api.zeks.xyz
@@ -38,8 +38,8 @@ const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 			
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Ownerbot\n'
-            + 'ORG:Creator SELF BOT;\n'
+            + 'FN:SUNDABOT\n'
+            + 'ORG:Creator SUNDA BOT;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6289657856407:+62 896-5785-6407\n'
             + 'END:VCARD'
 prefix = '!'
